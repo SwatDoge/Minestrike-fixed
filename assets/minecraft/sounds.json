@@ -12,11 +12,7 @@
   "guns.p250": {
     "category": "master",
     "sounds": [
-      "guns/p250/p250_1",
-      "guns/p250/p250_2",
-      "guns/p250/p250_3",
-      "guns/p250/p250_4",
-      "guns/p250/p250_5"
+      "guns/p250"
     ]
   },
   "guns.ssg08": {
@@ -42,11 +38,7 @@
   "guns.deagle": {
     "category": "master",
     "sounds": [
-      "guns/deagle/deagle_1",
-      "guns/deagle/deagle_2",
-      "guns/deagle/deagle_3",
-      "guns/deagle/deagle_4",
-      "guns/deagle/deagle_5"
+      "guns/deagle"
     ]
   },
   "guns.ak47": {
@@ -72,11 +64,7 @@
   "guns.cz75": {
     "category": "master",
     "sounds": [
-      "guns/cz75/cz75_1",
-      "guns/cz75/cz75_2",
-      "guns/cz75/cz75_3",
-      "guns/cz75/cz75_4",
-      "guns/cz75/cz75_5"
+      "guns/cz75"
     ]
   },
   "guns.famas": {
@@ -102,11 +90,7 @@
   "guns.glock18": {
     "category": "master",
     "sounds": [
-      "guns/glock18/glock18_1",
-      "guns/glock18/glock18_2",
-      "guns/glock18/glock18_3",
-      "guns/glock18/glock18_4",
-      "guns/glock18/glock18_5"
+      "guns/glock18"
     ]
   },
   "guns.nova": {
@@ -168,11 +152,7 @@
   "guns.goldengun": {
     "category": "master",
     "sounds": [
-      "guns/deagle/deagle_1",
-      "guns/deagle/deagle_2",
-      "guns/deagle/deagle_3",
-      "guns/deagle/deagle_4",
-      "guns/deagle/deagle_5"
+      "guns/deagle"
     ]
   },
   "effects.kill-confirmation": {
