@@ -132,11 +132,7 @@
   "guns.p2000": {
     "category": "master",
     "sounds": [
-      "guns/p2000/p2000_1",
-      "guns/p2000/p2000_2",
-      "guns/p2000/p2000_3",
-      "guns/p2000/p2000_4",
-      "guns/p2000/p2000_5"
+      "guns/p2000"
     ]
   },
   "guns.ppbison": {
