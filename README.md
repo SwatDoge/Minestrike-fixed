@@ -1,5 +1,5 @@
 The resource pack:
-[Minestrike remastered.zip](https://github.com/user-attachments/files/29155001/Minestrike.remastered.zip)
+[Minestrike remastered.zip download](https://github.com/user-attachments/files/29155001/Minestrike.remastered.zip)
 
 Current features:
 - Removed annoying F5 blocker
